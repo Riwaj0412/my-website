@@ -1,0 +1,3 @@
+"index.html" is the foundation of this where it defines the layout and the content of the web  page.
+"style.css" on other hand defines  how our elements in the web page will look like. This includes centering, spacing, styling the  input box, buttons and other features.
+Finally, "script-step2.js" is the feature that makes this web page interactive. On the other hand, we could say this is the logic of this whole. It waits for the  users to click the "Submit"  Button and read whatever is typed there. Basically, JavaScript here is a listener and handles the event of clicking the submit button and therefore updating the webpage thus demonstrating the event driven programming.
